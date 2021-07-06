@@ -17,6 +17,8 @@ p{
 
 }
 
+/* section 1 start */
+
 .first-box{
     width: 50%;
 
@@ -30,7 +32,9 @@ p{
 }
 
 .img img{
-    height: 100%;
+    height: 85%;
+    border-radius: 50%;
+    margin-left: -6px;
 }
 
 
@@ -53,7 +57,7 @@ p{
 }
 
 .first-box a {
-    background: linear-gradient(90deg, #fb994c , tomato);
+    background: linear-gradient(90deg, #d048e8 , #11B1FB);
     text-decoration: none;
     padding: 20px 35px;
     border-radius: 35px;
@@ -62,4 +66,51 @@ p{
     display: inline-block;
     font-size: 18px;
     margin-bottom: 60px;
+}
+/* section 1 end */
+
+
+/* section 2 start */
+
+.about-me{
+    background-image: url(img/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-2 {
+    width: 50%;
+    height: 500px;
+}
+
+.about-info {
+    width: 50%;
+}
+
+.img-2 img {
+    height: 94%;
+    margin: 30px 0px 0px 90px;
+}
+
+.about-info h2 {
+    font-family: 'Montserrat';
+    font-size: 40px;
+    color: #3eb7fc;
+    margin: 110px 0px 40px 0px;
+}
+
+.about-info p {
+    font-family: 'Poppins';
+}
+
+.about-info a{
+    background: linear-gradient(90deg, #d048e8 , #11B1FB);
+    text-decoration: none;
+    padding: 20px 35px;
+    border-radius: 35px;
+    color: white;
+    font-family: 'Poppins';
+    display: inline-block;
+    font-size: 18px;
+    margin: 40px 0px 60px 0px;
 }
