@@ -114,3 +114,61 @@ p{
     font-size: 18px;
     margin: 40px 0px 60px 0px;
 }
+
+/* section 2 end */
+
+/* section 3 start */
+
+.recipe-list{
+    color: ;
+}
+
+.recipe div{
+    width: 27%;
+}
+
+.recipe img{
+    width: 100%;
+}
+
+.recipe-list h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 60px;
+    color: #3eb7fc;
+}
+
+.recipe-list p {
+    width: 690px;
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Poppins';
+    letter-spacing: 1px;
+    color: #3e3e3e;
+}
+
+.recipies {
+    box-shadow: 0px 0px 20px rgb(180, 180, 180);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.recipies img {
+    border-radius: 10px;
+    height: 200px;
+}
+
+.recipies h3 {
+    font-family: 'Poppins';
+    font-size: 25px;
+    margin: 20px 0px;
+    font-weight: 500;
+}
+
+.recipies p {
+    width: 100%;
+    margin: 0px;
+    text-align: left;
+    font-family: 'Poppins';
+    color: #656464;
+}
