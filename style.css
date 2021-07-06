@@ -199,3 +199,27 @@ p{
 /* section 4 end */
 
 /* section 5 start */
+
+
+.footer{
+    background-color: #0B0D17;
+    margin-top: 90px;
+}
+
+.footer h1{
+    color: #1cabfa;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    padding-top: 60px;
+}
+
+.food{
+    color: #CE49E8;
+}
+
+.footer p {
+    color: #d8d7d8;
+    text-align: center;
+    padding: 20px 0px 90px 0px;
+}
