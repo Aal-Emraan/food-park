@@ -148,7 +148,7 @@ p{
 }
 
 .recipies {
-    box-shadow: 0px 0px 20px rgb(180, 180, 180);
+    box-shadow: 0px 0px 20px rgb(218, 217, 217);
     border-radius: 30px;
     padding: 20px;
 }
@@ -172,3 +172,30 @@ p{
     font-family: 'Poppins';
     color: #656464;
 }
+
+/* section 3 end */
+
+/* section 4 start */
+
+.social {
+    box-shadow: 0px 0px 25px #eaeaea;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-around;
+    padding: 70px 0px;
+    margin-top: 120px;
+}
+
+.social-info h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.social-info p {
+    color: #4e4e4e;
+    margin-top: 5px;
+}
+
+/* section 4 end */
+
+/* section 5 start */
